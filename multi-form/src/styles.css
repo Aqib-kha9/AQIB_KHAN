@@ -1,0 +1,13 @@
+.App {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  .MuiPaper-root {
+    padding: 20px;
+  }
+  
+  .MuiButton-containedPrimary {
+    background-color: #1976d2;
+  }
+  
